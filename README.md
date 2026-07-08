@@ -1,4 +1,4 @@
-# CTS Digital Nurture 5.0 - Complete Java DSA Training
+# Cognizant Digital Nurture 5.0 - Complete Java DSA Training
 
 Welcome to the comprehensive Cognizant DSA (Data Structures & Algorithms) and Java training program. This repository contains production-quality implementations of core Java concepts taught at Cognizant interview level.
 
