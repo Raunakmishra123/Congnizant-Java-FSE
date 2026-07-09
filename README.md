@@ -37,6 +37,13 @@ Welcome to the comprehensive Cognizant DSA (Data Structures & Algorithms) and Ja
 ### Week 4 Content
 - **Code Quality & SonarQube**: Clean code principles, static analysis, metrics
 
+### Week 5 Content
+- **React Hands-On**: JSX, functional and class components, props, state, lifecycle methods, React Router, API calls, conditional rendering
+
+### Week 6 Content
+- **Angular**: Component lifecycle hooks, Input/Output, custom directives and pipes, template syntax
+- **Git**: Repository setup, branching, merging, conflict resolution, remote workflows
+
 ## 📂 Project Structure
 
 ```
@@ -53,6 +60,11 @@ CTS-Digital-Nurture-5.0/
 │   └── 01-Spring-REST-SpringBoot3/
 ├── Week-4/
 │   └── 01-Code-Quality-SonarQube/
+├── week-5/
+│   └── ReactHandsOn/
+├── week-6/
+│   ├── AngularHandsOn/
+│   └── GIT/
 └── pom.xml
 ```
 
